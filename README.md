@@ -3,7 +3,7 @@
 
 Welcome to my profile!
 
-- 🔭 I’m currently working on AluAqui
+- 🔭 I’m currently working on AluAqui android app
 - 💬 Ask me about anything related to Android and Server-Side development
 - ⚡ Fun fact: When I don't code, I feel guilty
 
