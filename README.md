@@ -9,13 +9,14 @@ Welcome to my GitHub profile!<br>
 I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, pursuing Software Enginneering.
 
 ## I am currently ...
-- 🎓The DSC Lead at Universidade São Tomás de Moçambique.
-- 🎨The Software Engineer and Project Manager of my own startup [AlugAqui](https://github.com/AlugAqui) 😂😂😂😂, and I'm working in order to release some funny products as soon as possible
-- 🎓Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
+- 🎓 The DSC Lead at Universidade São Tomás de Moçambique.
+- 🎨 The Software Engineer and Project Manager of my own startup [AlugAqui](https://github.com/AlugAqui) 😂😂😂😂, and I'm working in order to release some other helpful products as soon as possible
+- 🎓 Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
 
 ## Curious facts about me...
 - I wrote my first line of code in 2018
-- I spend my time coding and speaking
+- I spend my time coding and reading
+- I don't have favorite food
 
 ## ...
 
