@@ -6,7 +6,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 Welcome to my GitHub profile!<br>
-I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, pursuing Software Enginneering.
+I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, pursuing Software Engineering.
 
 ## I am currently ...
 - 🎓 The DSC Lead at Universidade São Tomás de Moçambique.
