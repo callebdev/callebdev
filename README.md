@@ -10,7 +10,7 @@ I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, 
 
 ## I am currently ...
 - 🎓 The DSC Lead at Universidade São Tomás de Moçambique.
-- 🎨 Software Engineer at [AlugAqui](https://github.com/AlugAqui) 😂😂😂😂, and I'm working in order to release some other helpful products as soon as possible
+- 🎨 Software Engineer at [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui) 😂😂😂😂, and I'm working in order to release some other helpful products as soon as possible
 - 🎓 Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
 
 ## Curious facts about me...
