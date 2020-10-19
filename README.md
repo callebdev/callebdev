@@ -1,5 +1,5 @@
 # Calleb Joel Miquissene 
-[![Twitter Badge](https://img.shields.io/badge/-@callebdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/callebdev)](https://twitter.com/callebdev) [![Medium Badge](https://img.shields.io/badge/-@callebdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@callebdev/)
+[![Twitter Badge](https://img.shields.io/badge/-@callebdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/callebdev)](https://twitter.com/callebdev) [![Medium Badge](https://img.shields.io/badge/-@callebdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@callebdev/)](https://medium.com/@callebdev/)
 [![Gmail Badge](https://img.shields.io/badge/-callebmiquissene@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:callebmiquissene@gmail.com)](mailto:callebmiquissene@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/callebdev?label=Follow&style=social)](https://github.com/callebdev/?tab=follow)
 ---
@@ -10,7 +10,8 @@ I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, 
 
 ## I am currently ...
 - 🎓 The DSC Lead at Universidade São Tomás de Moçambique.
-- 🎨 Software Engineer at [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui) 😂😂😂😂, and I'm working in order to release some other helpful products as soon as possible
+- 🎨 Founder of [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui)
+- 🚧 Building [Paga-Lá App](https://github.com/pagala-app)
 - 🎓 Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
 
 ## Curious facts about me...
