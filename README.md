@@ -11,6 +11,7 @@ I'm Calleb Joel Miquissene, Student at Universidade São Tomás de Moçambique, 
 ## I am currently ...
 - 🎓 The DSC Lead at [Universidade São Tomás de Moçambique](https://dsc.community.dev/universidade-sao-tomas-de-mocambique).
 - 🎨 Founder of [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui)
+- 🎨 Creator of [SerieS-n-Shows App](https://play.google.com/store/apps/#)
 - 🚧 Building [Paga-Lá App](https://github.com/pagala-app)
 - 🎓 Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
 
