@@ -9,21 +9,13 @@ Welcome to my GitHub profile!<br>
 I'm a Student at Universidade São Tomás de Moçambique, pursuing Software Engineering.
 
 ## I am currently ...
-- 🎓 The DSC Lead at [Universidade São Tomás de Moçambique](https://dsc.community.dev/universidade-sao-tomas-de-mocambique).
+- 🎓 A Google DSC Lead at [Universidade São Tomás de Moçambique](https://dsc.community.dev/universidade-sao-tomas-de-mocambique).
 - 🎨 Founder of [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui)
 - 🎨 Creator of [Watch Next](https://play.google.com/store/apps/details?id=com.callebdev.tvshows)
 - 🏗️ Building **Vimeet**
-- 🎓 Enroled on Google Africa Scholarship in order to get the Android Associate Developer Certification
-
-## Curious facts about me...
-- I wrote my first line of code in 2018
-- I spend my time coding and reading
-- I don't have favorite food
-
+- 
 ## ...
 
-- 💬 Ask me about anything and everything! 
--  Message me at [Whatsapp](https://wa.me/258842572431)
+- 💬 Ask me about anything and everything!
 - 😄 Fun fact: When I don't code, I feel guilty! 
 ---
-![My github stats](https://github-readme-stats.vercel.app/api?username=callebdev&show_icons=true)
