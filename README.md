@@ -12,6 +12,7 @@ I'm a Student at Universidade São Tomás de Moçambique, pursuing Software Engi
 - 🎓 A Google DSC Lead at [Universidade São Tomás de Moçambique](https://dsc.community.dev/universidade-sao-tomas-de-mocambique).
 - 🎨 Founder of [AlugAqui](https://play.google.com/store/apps/details?id=com.calleb.alugaqui)
 - 🎨 Creator of [Watch Next](https://play.google.com/store/apps/details?id=com.callebdev.tvshows)
+- Creator of Datasharp
 - 🏗️ Building **Vimeet**
 - 
 ## ...
