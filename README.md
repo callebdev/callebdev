@@ -13,7 +13,7 @@ You can find some articles I wrote at [Medium](https://medium.com/@callebdev) an
 You can connect with me on [Twitter](https://twitter.com/callebdev) and [LinkedIn](https://www.linkedin.com/in/callebdev/).
 
 #### What I'm skilled at 😉
-I rock at Android Software Development with Kotlin and Java* (App Architectures MVVM & MVI, Android Architecture Components, Android Jetpack Libraries, multi-modulularization, reactive programming with RxJava, RxAndroid, RxKotlin, LiveData, and Kotlin Flows*, dependency injection with Dagger Hilt and Koin, securing android apps from Task Hijacking Attacks, concurrent programming with Threads, Kotlin Coroutines and Workers);
+I rock at Android Software Development with Kotlin and Java* (App Architectures MVVM & MVI, Android Architecture Components, Android Jetpack Libraries, multi-modularization, reactive programming with RxJava, RxAndroid, RxKotlin, LiveData, and Kotlin Flows*, dependency injection with Dagger Hilt and Koin, securing android apps from Task Hijacking Attacks, concurrent programming with Threads, Kotlin Coroutines and Workers);
 
 I also know CI/CD (GitHub Actions, Jenkins), Software Version Control (Git, GitHub, GitLab), SQL Databases, Containerization (Docker), Server-Side development with NodeJs and Kotlin (Spring and Ktor), Web Development with C# (ASP.Net).
 
