@@ -4,7 +4,7 @@ I'm a Mozambican Software Engineer based in Germany.
 
 I wrote my first line of code in **2018**, if you're wondering.
 
-Currently, I work as a Software Engineer at [Payback](https://play.google.com/store/apps/details?id=de.payback.client.android&hl=en_US&gl=US), part of American Express.
+Currently, I work as a Software Engineer at [Payback](https://apps.apple.com/de/app/payback-karte-und-coupons/id363126964), part of American Express.
 
 Previousy, I worked as an Android Software Engineer at [WIT Software](https://www.wit-software.com/), building the [M-Pesa App](https://play.google.com/store/apps/details?id=com.safaricom.mpesa.lifestyle) for Kenya and as a Mobile Engineer at [Retrica](https://retrica.co/).
 
