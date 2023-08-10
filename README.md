@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a **Mozambican** Software Engineer based in Germany. I wrote my first line of code in **2018**.
+I'm a **Mozambican** Software Engineer based in Germany.
 
 I work as a Software Engineer at [PAYBACK](https://apps.apple.com/de/app/payback-karte-und-coupons/id363126964), part of [American Express](https://americanexpress.com).
 
